@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d16db856467189f",
+        "id": "78f385faf68781cf",
         "type": "tabs",
         "children": [
           {
-            "id": "25754bbcde821fde",
+            "id": "124c6fdd59c773ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TypeScript"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tech",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index/Typescript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Typescript"
+              "title": "Outline"
             }
           },
           {
@@ -162,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,13 +175,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25754bbcde821fde",
+  "active": "124c6fdd59c773ce",
   "lastOpenFiles": [
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/Mengenal Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/1. Konsep Dasar Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis",
+    "Bisnis, Online Shop, dan Freelance",
+    "Untitled.base",
+    "2025-12-12.md",
+    "Bisnis, Online Shop, and Freelance/Membangun Bisnis/1. Mengenal Bisnis/1. Konsep Dasar Bisnis.md",
+    "Bisnis, Online Shop, and Freelance/Membangun Bisnis/1. Mengenal Bisnis/Mengenal Bisnis.md",
+    "Bisnis, Online Shop, and Freelance/Membangun Bisnis/Membangun Bisnis.md",
+    "Technology/TypeScript/TypeScript.md",
+    "Bisnis, Online Shop, and Freelance/Membangun Bisnis/1. Mengenal Bisnis",
+    "Bisnis, Online Shop, and Freelance/Membangun Bisnis",
+    "Bisnis, Online Shop, and Freelance",
+    "Technology/TypeScript/TypeScript-id.md",
+    "Bisnis, Online Shop dan Freelance/Membangun Bisnis/Mengenal Bisnis/3. Memahami Model Bisnis Canvas.md",
+    "Bisnis, Online Shop dan Freelance/Membangun Bisnis/Mengenal Bisnis/1. Konsep Dasar Bisnis.md",
+    "Bisnis, Online Shop dan Freelance/Membangun Bisnis/Mengenal Bisnis/2. Mengenal Value Proposition.md",
+    "assets/Pasted image 20251201085659.png",
+    "assets/Pasted image 20251201083248.png",
+    "assets/Pasted image 20251130152906.png",
+    "assets/Pasted image 20251130152532.png",
+    "assets/Pasted image 20251130152419.png",
+    "Digital Marketing/Untitled.base",
+    "Bisnis, Online Shop dan Freelance/Membangun Bisnis/Mengenal Bisnis",
+    "Bisnis, Online Shop dan Freelance/Membangun Bisnis",
+    "Digital Marketing/Summary/Funnel Digital Marketing.md",
+    "Technology/Kecerdasan Buatan/Metode Linier AI/1. Definisi Determinan.md",
+    "Kecerdasan Buatan.md",
     "Untitled.canvas",
-    "TypeScript.md",
     "indexes/TypeScript.md",
-    "indexes",
-    "assets",
     "Welcome.md"
   ]
 }
