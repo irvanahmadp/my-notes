@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2. Mengenal Value Proposition"
             }
+          },
+          {
+            "id": "659bb5c19a5a117c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/2. Mengenal Value Proposition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Mengenal Value Proposition"
+              "title": "Outline"
             }
           },
           {
@@ -166,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +191,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20d905e3d9c7cd58",
+  "active": "659bb5c19a5a117c",
   "lastOpenFiles": [
+    "indexes/TypeScript.md",
+    "2025-12-13.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/Mengenal Bisnis.md",
-    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/2. Mengenal Value Proposition.md",
-    "assets/20251213072409-leveling-pada-produk.png",
-    "Untitled.canvas",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/3. Memahami Bisnis Model Canvas.md",
+    "assets/pembagian-business-model-canvas 20251214060606.png",
+    "assets/leveling-pada-produk-20251213072409.png",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/1. Konsep Dasar Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/2. Mengenal Value Proposition.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis",
     "Bisnis, Online Shop, dan Freelance",
@@ -215,7 +231,6 @@
     "Digital Marketing/Summary/Funnel Digital Marketing.md",
     "Technology/Kecerdasan Buatan/Metode Linier AI/1. Definisi Determinan.md",
     "Kecerdasan Buatan.md",
-    "indexes/TypeScript.md",
     "Welcome.md"
   ]
 }
