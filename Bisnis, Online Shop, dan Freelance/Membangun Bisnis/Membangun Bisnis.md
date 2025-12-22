@@ -2,3 +2,5 @@
 - [[1. Konsep Dasar Bisnis]]
 - [[2. Mengenal Value Proposition]]
 - [[3. Memahami Bisnis Model Canvas]]
+[[Menemukan Ide Bisnis]]
+- [[1. Sumber Ide Bisnis]]
