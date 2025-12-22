@@ -4,3 +4,4 @@
 - [[3. Memahami Bisnis Model Canvas]]
 [[Menemukan Ide Bisnis]]
 - [[1. Sumber Ide Bisnis]]
+- [[2. Customer Gain and Pain]]
