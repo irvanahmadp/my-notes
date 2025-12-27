@@ -6,3 +6,5 @@
 - [[1. Sumber Ide Bisnis]]
 - [[2. Customer Gain and Pain]]
 - [[3. Minimum Viable Product]]
+[[Perencanaan Membangun Bisnis]]
+- [[1. Customer Planning]]

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f92015c08082a2e8",
+        "id": "692f6cd20b2334cb",
         "type": "tabs",
         "children": [
           {
-            "id": "49bb6d75fdacaf9b",
+            "id": "fb3a8f3feebad3af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Membangun Bisnis"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,15 +176,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdf442edbef96a42",
+  "active": "fb3a8f3feebad3af",
   "lastOpenFiles": [
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/3. Perencanaan Membangun Bisnis/Perencanaan Membangun Bisnis.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/Menemukan Ide Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/Mengenal Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/3. Perencanaan Membangun Bisnis/1. Customer Planning.md",
+    "assets/pricing-strategy-matrix-20251227084911.png",
+    "assets/analisa-market-size-20251227083229.png",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/3. Perencanaan Membangun Bisnis",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/3. Minimum Viable Product.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/2. Customer Gain and Pain.md",
     "Untitled 1.base",
     "Untitled.base",
     "assets/pentingnya-minimum-viable-product 20251223075138.png",
-    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/1. Sumber Ide Bisnis.md",
     "2025-12-14.md",
     "assets/benchmarking-kompetiror-SCAMPER.png",
@@ -198,7 +200,6 @@
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/2. Mengenal Value Proposition.md",
     "indexes/TypeScript.md",
     "2025-12-13.md",
-    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/Mengenal Bisnis.md",
     "assets/pembagian-business-model-canvas 20251214060606.png",
     "assets/leveling-pada-produk-20251213072409.png",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/1. Konsep Dasar Bisnis.md",
@@ -223,9 +224,6 @@
     "assets/Pasted image 20251201083248.png",
     "assets/Pasted image 20251130152906.png",
     "assets/Pasted image 20251130152532.png",
-    "assets/Pasted image 20251130152419.png",
-    "Digital Marketing/Untitled.base",
-    "Digital Marketing/Summary/Funnel Digital Marketing.md",
-    "Technology/Kecerdasan Buatan/Metode Linier AI/1. Definisi Determinan.md"
+    "Digital Marketing/Summary/Funnel Digital Marketing.md"
   ]
 }
