@@ -11,16 +11,6 @@
             "id": "49bb6d75fdacaf9b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0a08ea3ab1ff78ae",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
@@ -190,14 +180,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49bb6d75fdacaf9b",
+  "active": "cdf442edbef96a42",
   "lastOpenFiles": [
-    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/Menemukan Ide Bisnis.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/3. Minimum Viable Product.md",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/2. Customer Gain and Pain.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "assets/pentingnya-minimum-viable-product 20251223075138.png",
+    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Membangun Bisnis.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/1. Sumber Ide Bisnis.md",
     "2025-12-14.md",
     "assets/benchmarking-kompetiror-SCAMPER.png",
-    "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis/2. Customer Gain and Pain.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis/3. Memahami Bisnis Model Canvas.md",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/2. Menemukan Ide Bisnis",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/Untitled.md",
@@ -213,7 +207,6 @@
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis/1. Mengenal Bisnis",
     "Bisnis, Online Shop, dan Freelance/Membangun Bisnis",
     "Bisnis, Online Shop, dan Freelance",
-    "Untitled.base",
     "2025-12-12.md",
     "Bisnis, Online Shop, and Freelance/Membangun Bisnis/1. Mengenal Bisnis/1. Konsep Dasar Bisnis.md",
     "Bisnis, Online Shop, and Freelance/Membangun Bisnis/1. Mengenal Bisnis/Mengenal Bisnis.md",
@@ -232,9 +225,7 @@
     "assets/Pasted image 20251130152532.png",
     "assets/Pasted image 20251130152419.png",
     "Digital Marketing/Untitled.base",
-    "Bisnis, Online Shop dan Freelance/Membangun Bisnis/Mengenal Bisnis",
     "Digital Marketing/Summary/Funnel Digital Marketing.md",
-    "Technology/Kecerdasan Buatan/Metode Linier AI/1. Definisi Determinan.md",
-    "Kecerdasan Buatan.md"
+    "Technology/Kecerdasan Buatan/Metode Linier AI/1. Definisi Determinan.md"
   ]
 }
